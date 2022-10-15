@@ -1,8 +1,9 @@
-<p>Clarusway<img src="./assets/cw.png" alt="clarusway" width="30px" height="auto" align="right" /></p>
 
-<br>
 
 # Project-002: Language Cards (RP-02)
+
+- Live Site URL: [Click here](https://alpsabre.github.io/language-cards/)
+
 
 ## Description
 
