@@ -47,6 +47,7 @@ body {
   gap: 0.5rem;
 }
 
+
 .card {
   width: 10rem;
   height: 7rem;
@@ -78,4 +79,12 @@ li::before {
 img {
   width: 4rem;
   height: 4rem;
+}
+.card:hover{
+  box-shadow: gray 0px 5px 15px;
+}
+
+.card:hover .language-heading{
+  transform: scale(1.2);
+
 }
